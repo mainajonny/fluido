@@ -1,6 +1,6 @@
 # fluido
 
-Flutter app that lets you do basic Mpesa operations using Hover integration
+Flutter app that lets you do basic Mpesa operations using [Hover](https://github.com/UseHover) integration
 
 ## Getting Started
 
