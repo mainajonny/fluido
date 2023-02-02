@@ -3,9 +3,9 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-Color kPrimaryColor = Color(0xFFD67D00);
-Color kPrimaryColorLight = const Color(0xFFD67D00).withOpacity(0.25);
-Color kPrimaryColorLighter = const Color(0xFFD67D00).withOpacity(0.05);
+Color kPrimaryColor = const Color(0xE83D00D6);
+Color kPrimaryColorLight = const Color(0xE83D00D6).withOpacity(0.25);
+Color kPrimaryColorLighter = const Color(0xE83D00D6).withOpacity(0.05);
 
 const kWhiteColor = Colors.white;
 const kTextColorBlack = Colors.black;
