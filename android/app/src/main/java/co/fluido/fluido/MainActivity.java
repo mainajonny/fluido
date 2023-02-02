@@ -53,7 +53,7 @@ public class MainActivity extends FlutterActivity {
 
             switch (action) {
                 case "CheckBalance":
-                    actionId = "c9e84cca";
+                    actionId = "<YOUR_ACTION_ID>";
                     i = new HoverParameters.Builder(this).request(actionId).buildIntent();
                     break;
                 case "SendMoney":
